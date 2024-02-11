@@ -19,9 +19,8 @@ This is moooon's GitHub.📖
 
 <div align=center>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bean2486)](https://solved.ac/bean2486)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bean2486)](https://solved.ac/bean2486)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bean2486)](https://solved.ac/bean2486)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moooon319&show_icons=true&theme=dracula)
+
 
 </div>
